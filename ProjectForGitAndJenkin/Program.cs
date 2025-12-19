@@ -13,7 +13,7 @@ namespace ProjectForGitAndJenkin
             var a = 20;
             var b = 10;
             var c = a + b;
-            Console.WriteLine("Sum is: " + c)
+            Console.WriteLine("Sum is: " + c);
 
         }
         static void Main(string[] args)
